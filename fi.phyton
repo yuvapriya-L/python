@@ -1,0 +1,2 @@
+#student marks, percentage and Grade
+name = input("enter student name:")
